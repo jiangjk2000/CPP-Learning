@@ -87,7 +87,7 @@
       <PrecompiledHeader>
       </PrecompiledHeader>
       <WarningLevel>Level3</WarningLevel>
-      <SDLCheck>true</SDLCheck>
+      <SDLCheck>false</SDLCheck>
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
     </ClCompile>
@@ -147,7 +147,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Ex64.cpp" />
     <ClCompile Include="DataStructure.cpp" />
+    <ClCompile Include="Ex29.cpp" />
+    <ClCompile Include="Ex39.cpp" />
+    <ClCompile Include="Ex59.cpp" />
+    <ClCompile Include="Ex69.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="3-Tuple.h" />

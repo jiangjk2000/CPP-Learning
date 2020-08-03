@@ -1,0 +1,5 @@
+﻿  Ex40.cpp
+C:\Users\Jjk\Documents\GitHub\CPP-Learning\DataStructure\Ex40\Ex40.cpp(7,13): error C2371: “ElemType”: 重定义；不同的基类型
+C:\Users\Jjk\Documents\GitHub\CPP-Learning\DataStructure\Ex40\btree.h(6): message : 参见“ElemType”的声明
+C:\Users\Jjk\Documents\GitHub\CPP-Learning\DataStructure\Ex40\Ex40.cpp(108,10): warning C4477: “scanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“ElemType *”
+C:\Users\Jjk\Documents\GitHub\CPP-Learning\DataStructure\Ex40\Ex40.cpp(108,10): message : 请考虑在格式字符串中使用“%hhd”

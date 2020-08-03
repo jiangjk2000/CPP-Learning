@@ -1,0 +1,22 @@
+﻿  LinkNode.h
+  SqStack.h
+C:\Users\Jjk\Documents\GitHub\CPP-Learning\DataStructure\Ex37\SqStack.h(18,2): warning C4094: 无标记的“struct”未声明符号
+  正在生成代码...
+LinkNode.obj : error LNK2005: "void __cdecl CreateListF(struct LNode * &,char * const,int)" (?CreateListF@@YAXAAPAULNode@@QADH@Z) 已经在 Ex37.obj 中定义
+LinkNode.obj : error LNK2005: "void __cdecl CreateListR(struct LNode * &,char * const,int)" (?CreateListR@@YAXAAPAULNode@@QADH@Z) 已经在 Ex37.obj 中定义
+LinkNode.obj : error LNK2005: "void __cdecl DestroyList(struct LNode * &)" (?DestroyList@@YAXAAPAULNode@@@Z) 已经在 Ex37.obj 中定义
+LinkNode.obj : error LNK2005: "void __cdecl DispList(struct LNode * &)" (?DispList@@YAXAAPAULNode@@@Z) 已经在 Ex37.obj 中定义
+LinkNode.obj : error LNK2005: "bool __cdecl GetElem(struct LNode * &,int,char &)" (?GetElem@@YA_NAAPAULNode@@HAAD@Z) 已经在 Ex37.obj 中定义
+LinkNode.obj : error LNK2005: "void __cdecl InitList(struct LNode * &)" (?InitList@@YAXAAPAULNode@@@Z) 已经在 Ex37.obj 中定义
+LinkNode.obj : error LNK2005: "bool __cdecl ListDelete(struct LNode * &,int,char &)" (?ListDelete@@YA_NAAPAULNode@@HAAD@Z) 已经在 Ex37.obj 中定义
+LinkNode.obj : error LNK2005: "bool __cdecl ListEmpty(struct LNode * &)" (?ListEmpty@@YA_NAAPAULNode@@@Z) 已经在 Ex37.obj 中定义
+LinkNode.obj : error LNK2005: "bool __cdecl ListInsert(struct LNode * &,int,char)" (?ListInsert@@YA_NAAPAULNode@@HD@Z) 已经在 Ex37.obj 中定义
+LinkNode.obj : error LNK2005: "int __cdecl ListLength(struct LNode * &)" (?ListLength@@YAHAAPAULNode@@@Z) 已经在 Ex37.obj 中定义
+LinkNode.obj : error LNK2005: "int __cdecl LocateElem(struct LNode * &,char)" (?LocateElem@@YAHAAPAULNode@@D@Z) 已经在 Ex37.obj 中定义
+SqStack.obj : error LNK2005: "void __cdecl DestoryStack(struct SqStack * &)" (?DestoryStack@@YAXAAPAUSqStack@@@Z) 已经在 Ex37.obj 中定义
+SqStack.obj : error LNK2005: "bool __cdecl GetTop(struct SqStack *,char &)" (?GetTop@@YA_NPAUSqStack@@AAD@Z) 已经在 Ex37.obj 中定义
+SqStack.obj : error LNK2005: "void __cdecl InitStack(struct SqStack * &)" (?InitStack@@YAXAAPAUSqStack@@@Z) 已经在 Ex37.obj 中定义
+SqStack.obj : error LNK2005: "bool __cdecl Pop(struct SqStack * &,char &)" (?Pop@@YA_NAAPAUSqStack@@AAD@Z) 已经在 Ex37.obj 中定义
+SqStack.obj : error LNK2005: "bool __cdecl Push(struct SqStack * &,char)" (?Push@@YA_NAAPAUSqStack@@D@Z) 已经在 Ex37.obj 中定义
+SqStack.obj : error LNK2005: "bool __cdecl StackEmpty(struct SqStack *)" (?StackEmpty@@YA_NPAUSqStack@@@Z) 已经在 Ex37.obj 中定义
+C:\Users\Jjk\Documents\GitHub\CPP-Learning\DataStructure\Debug\Ex37.exe : fatal error LNK1169: 找到一个或多个多重定义的符号

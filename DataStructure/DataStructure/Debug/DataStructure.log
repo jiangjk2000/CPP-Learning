@@ -1,0 +1,12 @@
+﻿  DataStructure.cpp
+C:\Users\Jjk\Documents\GitHub\CPP-Learning\DataStructure\DataStructure\3-Tuple.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Ex29.cpp
+  Ex59.cpp
+C:\Users\Jjk\Documents\GitHub\CPP-Learning\DataStructure\DataStructure\Ex59.cpp(107,40): error C2146: 语法错误: 缺少“)”(在标识符“lists”的前面)
+C:\Users\Jjk\Documents\GitHub\CPP-Learning\DataStructure\DataStructure\Ex59.cpp(107,45): error C3646: “lists”: 未知重写说明符
+C:\Users\Jjk\Documents\GitHub\CPP-Learning\DataStructure\DataStructure\Ex59.cpp(107,51): error C2062: 意外的类型“int”
+C:\Users\Jjk\Documents\GitHub\CPP-Learning\DataStructure\DataStructure\Ex59.cpp(107,52): error C2059: 语法错误:“)”
+C:\Users\Jjk\Documents\GitHub\CPP-Learning\DataStructure\DataStructure\Ex59.cpp(108,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\Jjk\Documents\GitHub\CPP-Learning\DataStructure\DataStructure\Ex59.cpp(108,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+  Ex69.cpp
+  正在生成代码...
